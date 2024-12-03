@@ -22,7 +22,7 @@ $args = array(
     // This is where your data is stored in the database and also becomes your global variable name.
     'display_name'         => __( 'Worth The Read', 'worth-the-read' ),
     // Name that appears at the top of your panel
-    'display_version'      => '1.14.2',
+    'display_version'      => '1.14.3',
     // Version that appears at the top of your panel
     'menu_type'            => 'menu',
     //Specify if the admin menu should appear or not. Options: menu or submenu (Under appearance only)
