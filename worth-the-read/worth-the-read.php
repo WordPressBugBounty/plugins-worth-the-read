@@ -1,11 +1,11 @@
 <?php
 /**
  * Plugin Name: Worth The Read
- * Plugin URI: http://www.welldonemarketing.com
+ * Plugin URI: http://www.brianmcculloh.com
  * Description: Adds read length progress bar to single posts and pages, as well as an optional reading time commitment label to post titles.
- * Version: 1.14.3
- * Author: Well Done Marketing
- * Author URI: http://www.welldonemarketing.com
+ * Version: 1.14.4
+ * Author: Brian McCulloh
+ * Author URI: http://www.brianmcculloh.com
  * License: GPL2
  */
 

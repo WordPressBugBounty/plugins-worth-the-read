@@ -1,9 +1,9 @@
-=== Plugin Name ===
+=== Worth The Read ===
 Contributors: brianmcculloh
-Tags: reading, length, progress, reading time, scroll, scroll progress, reading progress, read time estimate
+Tags: reading, progress, reading time, scroll, estimated reading time
 Requires at least: 3.8
-Tested up to: 6.7.1
-Stable tag: 1.14.3
+Tested up to: 7.1
+Stable tag: 1.14.4
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -51,7 +51,10 @@ The plugin is as minimally distracting visually as it can be while still being e
 
 == Changelog ==
 
-= 1.14.2 =
+= 1.14.4 =
+* Tested: Compatible with WordPress 7.1
+
+= 1.14.3 =
 * Tested: Compatible with WordPress 6.7.1
 
 = 1.14.2 =
